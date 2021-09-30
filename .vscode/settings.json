@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4c9cf27c-90d5-48b6-8c50-f93a6c0289d0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/self-check-in-demo"
+}
